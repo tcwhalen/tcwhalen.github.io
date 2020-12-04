@@ -28,7 +28,8 @@ twitter_username: TimCWhalen
 github_username:  tcwhalen
 
 # Build settings
-theme: jekyll-theme-hydeout
+# theme: jekyll-theme-hydeout
+remote_theme: fongandrew/hydeout
 plugins:
   - jekyll-feed
 
