@@ -1,0 +1,36 @@
+---
+# Jekyll needs front matter for SCSS files
+---
+
+$gray-1: #f9f9f9 !default;
+$gray-2: #e5e5e5 !default;
+$gray-3: #ccc !default;
+$gray-4: #767676 !default;
+$gray-5: #515151 !default;
+$gray-6: #313131 !default;
+
+$red: #ac4142 !default;
+$orange: #d28445 !default;
+$yellow: #f4bf75 !default;
+$green: #90a959 !default;
+$cyan: #75b5aa !default;
+$blue: #268bd2 !default;
+$brown: #8f5536 !default;
+
+$sidebar-bg-color: #000000;
+$link-color: #d28445;
+$sidebar-sticky: false;
+
+$sidebar-fg-color: #fff !default;
+$sidebar-sticky: true !default;
+// $layout-reverse: true !default;
+
+
+$border-color: $gray-2 !default;
+$border-radius: 300px !default;
+$padding-v: 1em !default;
+$padding-h: 1.5em !default;
+$heading-spacing: 0.5rem !default;
+$section-spacing: 2rem !default;
+$sidebar-width: 18rem !default;
+@import "hydeout";
