@@ -6,7 +6,7 @@ sidebar_link: true
 sidebar_sort_order: 2
 ---
 
-My parents fostered my love of math, science and technology from a very young age – my dad by trying to teach me mathematical concepts when I was far too young, and my mum by showing me at the age of 5 that the answer to any question I could dream of could be found on a magical website called Google. My decision to pursue academic research may have subconsciously been a pushback: seeking questions that Google had no answer to and finding them myself. It seems I had a rebellious phase after all.
+My parents fostered my love of math, science and technology from a very young age – my dad by trying to teach me mathematical concepts when I was far too young, and my mum by showing me at the age of 5 that the answer to any question I could dream of could be found on a magical website called Google. My decision to pursue academic research may have subconsciously been a pushback: seeking questions that Google had no answer to and finding them myself. It looks like I may have had a rebellious phase after all!
 
 Attempting to cement into place my identity as a geek, my parents sent me off to a bluntly named (but dear to my heart) middle and high school, the Advanced Math and Science Academy. After graduating as valedictorian, I attended Brown University where I completed an undergraduate thesis in the lab of John Donoghue before pursuing my PhD in Neural Computation at Carnegie Mellon University with Aryn Gittis and Jonathan Rubin, funded in part through an individual NIH F-31 fellowship award.
 
