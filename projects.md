@@ -14,6 +14,6 @@ An analysis of delta oscillations in Parkinson’s disease. A bit of novel signa
 
 A biophysical model of the pallidostriatal microcircuit of the basal ganglia, suggesting its role in generating and propagating beta oscillations in Parkinson’s disease. Implemented in XPPAUT, a dynamical systems simulation tool, with analysis in MATLAB.
 
-**Audio Classification** \[GitHub\] [Blog]
+**Audio Classification** \[[GitHub](https://github.com/tcwhalen/UrbanSoundPS)\] [Blog]
 
 Inspired by signal processing ideas developed to detect neural oscillations, an investigation of how phase stationarity affords more accurate audio classification. Uses the public UrbanSound8K data set. Implemented in Python.
