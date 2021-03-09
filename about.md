@@ -4,6 +4,7 @@ title: About Me
 permalink: /about/
 sidebar_link: true
 sidebar_sort_order: 2
+back_page: null
 ---
 
 My parents fostered my love of math, science and technology from a very young age – my dad by trying to teach me mathematical concepts when I was far too young, and my mum by showing me at the age of 5 that the answer to any question I could dream of could be found on a magical website called Google. My decision to pursue academic research may have subconsciously been a pushback: seeking questions that Google had no answer to and finding them myself. It looks like I may have had a rebellious phase after all!
