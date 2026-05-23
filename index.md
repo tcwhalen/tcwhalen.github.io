@@ -7,7 +7,7 @@ sidebar_sort_order: 1
 title-heading: false
 ---
 
-![Mt. Washington above the Duqesne Incline (Pittsburgh, PA)](img/incline.jpg){: style="float:left; width:100%; max-width:245px; margin: 5px 10px 10px 0px;" } 
+![Mt. Washington above the Duquesne Incline (Pittsburgh, PA)](img/incline.jpg){: style="display:block; margin:0 auto 10px auto; width:100%; max-width:625px;" }
 
 I'm a **Senior Data Scientist** at International Flavors and Fragrances (IFF). I build and serve as a **digital product owner** for internal data products that help our perfumers, flavorists, design managers, and commercial teams to be more effective in their work serving our customers. I collaborate directly with internal stakeholders to understand their challenges, determine their precise data and modeling requirements, iterate on AI/ML solutions with their feedback, and lead teams in developing, deploying, and continuously improving internal web applications. I've also contributed to digital transformation initiatives at our production facilities focused on operational efficiency, waste reduction, and product quality.
 
