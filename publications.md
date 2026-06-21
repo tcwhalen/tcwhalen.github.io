@@ -7,6 +7,8 @@ sidebar_sort_order: 3
 ---
 
 ## Peer-Reviewed Articles:
+**Whalen T. C.**, Parker J. E., Gittis A. H., Rubin J. E. (2023). Transmission of delta band (0.5-4 Hz) oscillations from the globus pallidus to the substantia nigra pars reticulata in dopamine depletion. Journal of Computational Neuroscience, 51.3, 361-380. \[[web](https://link.springer.com/article/10.1007/s10827-023-00853-z)\]
+
 **Whalen T. C.**, Willard, A. M., Rubin, J. E., & Gittis, A. H. (2020). Delta oscillations are a robust biomarker of dopamine depletion severity and motor dysfunction in awake mice. Journal of Neurophysiology, 124(2), 312-329. \[[web](https://journals.physiology.org/doi/abs/10.1152/jn.00158.2020)\]
 
 Willard, A. M., Isett, B. R., **Whalen, T. C.**, Mastro, K. J., Ki, C. S., Mao, X., & Gittis, A. H. (2019). State transitions in the substantia nigra reticulata predict the onset of motor deficits in models of progressive dopamine depletion in mice. Elife, 8, e42746. \[[web](https://elifesciences.org/articles/42746)\] \[[pdf](https://elifesciences.org/download/aHR0cHM6Ly9jZG4uZWxpZmVzY2llbmNlcy5vcmcvYXJ0aWNsZXMvNDI3NDYvZWxpZmUtNDI3NDYtdjIucGRmP2Nhbm9uaWNhbFVyaT1odHRwczovL2VsaWZlc2NpZW5jZXMub3JnL2FydGljbGVzLzQyNzQ2/elife-42746-v2.pdf?_hash=DjHP6f8%2FdPdpnhhrqYcvsPt7FtrA4%2Fh9bWnMCYV2jzQ%3D)\]
